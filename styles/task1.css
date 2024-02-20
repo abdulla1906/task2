@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    width: 1000px;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.wrapper-box h3{
+     color: blue;
+}
+.wrapper-select{
+     margin-top: 10%;
+    display: flex;
+    gap: 50px
+    
+}
+.selects{
+    width: 100%;
+}
+form{
+    margin-top: 10%;
+    display: flex;
+    gap: 15px;
+    
+}
+
